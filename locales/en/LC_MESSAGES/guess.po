@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-03 15:27+0530\n"
+"PO-Revision-Date: 2023-05-03 16:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: chatbot.py:5
+msgid "Chatbot"
+msgstr "Chatbot"
+
+#: chatbot.py:14
+msgid ""
+"Hi there! Did you recently experience a sudden decline in your purchase rate "
+"from Britannia?"
+msgstr ""
+"Hi there! Did you recently experience a sudden decline in your purchase rate "
+"from Britannia?"
+
+#: chatbot.py:15
+msgid "Please select"
+msgstr "Please select"
+
+#: chatbot.py:15
+msgid "Yes or No"
+msgstr "Yes or No"
+
+#: chatbot.py:21
+msgid "Thanks for your time!"
+msgstr "Thanks for your time!"
+
+#: chatbot.py:25
+msgid ""
+"What are the possible reasons for the sudden change and caused inconvenience"
+msgstr ""
+"What are the possible reasons for the sudden change and caused inconvenience"
+
+#: chatbot.py:27
+msgid "you can select multiple options"
+msgstr "you can select multiple options"
+
+#: chatbot.py:29
+msgid ""
+"Replaced a premium Britannia product with less premium Britannia product"
+msgstr ""
+"Replaced a premium Britannia product with less premium Britannia product"
+
+#: chatbot.py:30
+msgid "Stopped selling that category"
+msgstr "Stopped selling that category"
+
+#: chatbot.py:31
+msgid "Started selling products of competition brand"
+msgstr "Started selling products of competition brand"
+
+#: chatbot.py:32
+msgid "Less demand of the category in the market"
+msgstr "Less demand of the category in the market"
+
+#: chatbot.py:36 chatbot.py:64 chatbot.py:90
+msgid "Other"
+msgstr "Other"
+
+#: chatbot.py:37 chatbot.py:65 chatbot.py:91
+msgid "State your reason"
+msgstr "State your reason"
+
+#: chatbot.py:43 chatbot.py:73 chatbot.py:99 chatbot.py:110 chatbot.py:125
+msgid "Submit"
+msgstr "Submit"
+
+#: chatbot.py:46 chatbot.py:76
+msgid "Thank You for your response, we would now proceed to the next segment"
+msgstr "Thank You for your response, we would now proceed to the next segment"
+
+#: chatbot.py:49
+msgid "Proceed to the next segment"
+msgstr "Proceed to the next segment"
+
+#: chatbot.py:52 chatbot.py:82
+msgid "Select multiple options"
+msgstr "Select multiple options"
+
+#: chatbot.py:54
+msgid "Payments due from Britannia"
+msgstr "Payments due from Britannia"
+
+#: chatbot.py:55
+msgid "Received poor quality products"
+msgstr "Received poor quality products"
+
+#: chatbot.py:56
+msgid "Refund related issues"
+msgstr "Refund related issues"
+
+#: chatbot.py:57
+msgid "Products not delivered on-time"
+msgstr "Products not delivered on-time"
+
+#: chatbot.py:58
+msgid "Received damaged products"
+msgstr "Received damaged products"
+
+#: chatbot.py:59
+msgid "Irregular visits from salesperson"
+msgstr "Irregular visits from salesperson"
+
+#: chatbot.py:60
+msgid "Shipment not delivered"
+msgstr "Shipment not delivered"
+
+#: chatbot.py:84
+msgid "Average price/kg reduced"
+msgstr "Average price/kg reduced"
+
+#: chatbot.py:85
+msgid "Buying less number of packets"
+msgstr "Buying less number of packets"
+
+#: chatbot.py:86
+msgid "Schemes are not available"
+msgstr "Schemes are not available"
+
+#: chatbot.py:102
+msgid ""
+"We have recorded your response. Would you like to add any other issue you "
+"are facing and help us in getting better?"
+msgstr ""
+"We have recorded your response. Would you like to add any other issue you "
+"are facing and help us in getting better?"
+
+#: chatbot.py:103
+msgid "No"
+msgstr "No"
+
+#: chatbot.py:103
+msgid "Select"
+msgstr "Select"
+
+#: chatbot.py:103
+msgid "Yes"
+msgstr "Yes"
+
+#: chatbot.py:105
+msgid "State your issue"
+msgstr "State your issue"
+
+#: chatbot.py:114
+msgid "These are the issues you are facing currently:"
+msgstr "These are the issues you are facing currently:"
+
+#: chatbot.py:116
+msgid "##### Can you select the degree of severity of these problems"
+msgstr "##### Can you select the degree of severity of these problems"
+
+#: chatbot.py:120
+msgid "High"
+msgstr "High"
+
+#: chatbot.py:120
+msgid "Low"
+msgstr "Low"
+
+#: chatbot.py:120
+msgid "Medium"
+msgstr "Medium"
+
+#: chatbot.py:127
+msgid "Thank you for your response!"
+msgstr "Thank you for your response!"
+
+#: chatbot.py:130
+msgid "Please type YES or NO"
+msgstr "Please type YES or NO"

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-05-03 14:18+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: chatbot.py:5
+msgid "Chatbot"
+msgstr ""
+
+#: chatbot.py:14
+msgid "Hi there! Did you recently experience a sudden decline in your purchase rate from Britannia?"
+msgstr ""
+
+#: chatbot.py:15
+msgid "Please select"
+msgstr ""
+
+#: chatbot.py:15
+msgid "Yes or No"
+msgstr ""
+
+#: chatbot.py:21
+msgid "Thanks for your time!"
+msgstr ""
+
+#: chatbot.py:25
+msgid "What are the possible reasons for the sudden change and caused inconvenience"
+msgstr ""
+
