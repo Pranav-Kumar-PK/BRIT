@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-03 15:27+0530\n"
+"PO-Revision-Date: 2023-05-19 12:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kn_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: chatbot.py:5
+msgid "Chatbot"
+msgstr ""
+
+#: chatbot.py:14
+msgid ""
+"Hi there! Did you recently experience a sudden decline in your purchase rate "
+"from Britannia?"
+msgstr ""
+"ನಮಸ್ಕಾರ! ಬ್ರಿಟಾನಿಯಾದಿಂದ ನಿಮ್ಮ ಖರೀದಿ ದರದಲ್ಲಿ ನೀವು ಇತ್ತೀಚೆಗೆ ಹಠಾತ್ ಕುಸಿತವನ್ನು "
+"ಅನುಭವಿಸಿದ್ದೀರಾ?"
+
+#: chatbot.py:15
+msgid "Please select"
+msgstr "ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡು"
+
+#: chatbot.py:15
+msgid "Yes or No"
+msgstr "ಹೌದು ಅಥವಾ ಇಲ್ಲ"
+
+#: chatbot.py:21
+msgid "Thanks for your time!"
+msgstr "ನಿಮ್ಮ ಸಮಯಕ್ಕೆ ಧನ್ಯವಾದಗಳು!"
+
+#: chatbot.py:25
+msgid ""
+"What are the possible reasons for the sudden change and caused inconvenience"
+msgstr "ಹಠಾತ್ ಬದಲಾವಣೆ ಮತ್ತು ಅನಾನುಕೂಲತೆಗಾಗಿ ಸಂಭವನೀಯ ಕಾರಣಗಳು ಯಾವುವು"
+
+#: chatbot.py:27
+msgid "you can select multiple options"
+msgstr "ನೀವು ಬಹು ಆಯ್ಕೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು"
+
+#: chatbot.py:29
+msgid ""
+"Replaced a premium Britannia product with less premium Britannia product"
+msgstr ""
+"ಪ್ರೀಮಿಯಂ ಬ್ರಿಟಾನಿಯಾ ಉತ್ಪನ್ನವನ್ನು ಕಡಿಮೆ ಪ್ರೀಮಿಯಂ ಬ್ರಿಟಾನಿಯಾ ಉತ್ಪನ್ನದೊಂದಿಗೆ "
+"ಬದಲಾಯಿಸಲಾಗಿದೆ"
+
+#: chatbot.py:30
+msgid "Stopped selling that category"
+msgstr "ಆ ವರ್ಗದ ಮಾರಾಟವನ್ನು ನಿಲ್ಲಿಸಿದೆ"
+
+#: chatbot.py:31
+msgid "Started selling products of competition brand"
+msgstr "ಸ್ಪರ್ಧೆಯ ಬ್ರಾಂಡ್‌ನ ಉತ್ಪನ್ನಗಳನ್ನು ಮಾರಾಟ ಮಾಡಲು ಪ್ರಾರಂಭಿಸಿದೆ"
+
+#: chatbot.py:32
+msgid "Less demand of the category in the market"
+msgstr "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ವರ್ಗದ ಕಡಿಮೆ ಬೇಡಿಕೆ"
+
+#: chatbot.py:36 chatbot.py:64 chatbot.py:90
+msgid "Other"
+msgstr "ಇತರೆ"
+
+#: chatbot.py:37 chatbot.py:65 chatbot.py:91
+msgid "State your reason"
+msgstr "ನಿಮ್ಮ ಕಾರಣವನ್ನು ತಿಳಿಸಿ"
+
+#: chatbot.py:43 chatbot.py:73 chatbot.py:99 chatbot.py:110 chatbot.py:125
+msgid "Submit"
+msgstr "ಸಲ್ಲಿಸು"
+
+#: chatbot.py:46 chatbot.py:76
+msgid "Thank You for your response, we would now proceed to the next segment"
+msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು, ನಾವು ಈಗ ಮುಂದಿನ ವಿಭಾಗಕ್ಕೆ ಮುಂದುವರಿಯುತ್ತೇವೆ"
+
+#: chatbot.py:49
+msgid "Proceed to the next segment"
+msgstr "ಮುಂದಿನ ವಿಭಾಗಕ್ಕೆ ಮುಂದುವರಿಯಿರಿ"
+
+#: chatbot.py:52 chatbot.py:82
+msgid "Select multiple options"
+msgstr "ಬಹು ಆಯ್ಕೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+#: chatbot.py:54
+msgid "Payments due from Britannia"
+msgstr "ಬ್ರಿಟಾನಿಯಾದಿಂದ ಪಾವತಿಸಬೇಕಾದ ಪಾವತಿಗಳು"
+
+#: chatbot.py:55
+msgid "Received poor quality products"
+msgstr "ಕಳಪೆ ಗುಣಮಟ್ಟದ ಉತ್ಪನ್ನಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ"
+
+#: chatbot.py:56
+msgid "Refund related issues"
+msgstr "ಮರುಪಾವತಿ ಸಂಬಂಧಿತ ಸಮಸ್ಯೆಗಳು"
+
+#: chatbot.py:57
+msgid "Products not delivered on-time"
+msgstr "ಉತ್ಪನ್ನಗಳನ್ನು ಸಮಯಕ್ಕೆ ತಲುಪಿಸಲಾಗಿಲ್ಲ"
+
+#: chatbot.py:58
+msgid "Received damaged products"
+msgstr "ಹಾನಿಗೊಳಗಾದ ಉತ್ಪನ್ನಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ"
+
+#: chatbot.py:59
+msgid "Irregular visits from salesperson"
+msgstr "ಮಾರಾಟಗಾರರಿಂದ ಅನಿಯಮಿತ ಭೇಟಿಗಳು"
+
+#: chatbot.py:60
+msgid "Shipment not delivered"
+msgstr "ಸಾಗಣೆಯನ್ನು ತಲುಪಿಸಲಾಗಿಲ್ಲ"
+
+#: chatbot.py:84
+msgid "Average price/kg reduced"
+msgstr "ಸರಾಸರಿ ಬೆಲೆ/ಕೆಜಿ ಕಡಿಮೆಯಾಗಿದೆ"
+
+#: chatbot.py:85
+msgid "Buying less number of packets"
+msgstr "ಕಡಿಮೆ ಸಂಖ್ಯೆಯ ಪ್ಯಾಕೆಟ್‌ಗಳನ್ನು ಖರೀದಿಸುವುದು"
+
+#: chatbot.py:86
+msgid "Schemes are not available"
+msgstr "ಯೋಜನೆಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+#: chatbot.py:102
+msgid ""
+"We have recorded your response. Would you like to add any other issue you "
+"are facing and help us in getting better?"
+msgstr ""
+"ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನಾವು ದಾಖಲಿಸಿದ್ದೇವೆ. ನೀವು ಎದುರಿಸುತ್ತಿರುವ ಯಾವುದೇ ಸಮಸ್ಯೆಯನ್ನು "
+"ಸೇರಿಸಲು ಮತ್ತು ಉತ್ತಮಗೊಳ್ಳಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಲು ನೀವು ಬಯಸುವಿರಾ?"
+
+#: chatbot.py:103
+msgid "No"
+msgstr "ಸಂ"
+
+#: chatbot.py:103
+msgid "Select"
+msgstr "ಆಯ್ಕೆ ಮಾಡಿ"
+
+#: chatbot.py:103
+msgid "Yes"
+msgstr "ಹೌದು"
+
+#: chatbot.py:105
+msgid "State your issue"
+msgstr "ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ತಿಳಿಸಿ"
+
+#: chatbot.py:114
+msgid "These are the issues you are facing currently:"
+msgstr "ನೀವು ಪ್ರಸ್ತುತ ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಇವು:"
+
+#: chatbot.py:116
+msgid "##### Can you select the degree of severity of these problems"
+msgstr "##### ಈ ಸಮಸ್ಯೆಗಳ ತೀವ್ರತೆಯ ಮಟ್ಟವನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು"
+
+#: chatbot.py:120
+msgid "High"
+msgstr "ಹೆಚ್ಚು"
+
+#: chatbot.py:120
+msgid "Low"
+msgstr "ಕಡಿಮೆ"
+
+#: chatbot.py:120
+msgid "Medium"
+msgstr "ಮಾಧ್ಯಮ"
+
+#: chatbot.py:127
+msgid "Thank you for your response!"
+msgstr "ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗಾಗಿ ಧನ್ಯವಾದಗಳು!"
+
+#: chatbot.py:130
+msgid "Please type YES or NO"
+msgstr "ದಯವಿಟ್ಟು ಹೌದು ಅಥವಾ ಇಲ್ಲ ಎಂದು ಟೈಪ್ ಮಾಡಿ"
